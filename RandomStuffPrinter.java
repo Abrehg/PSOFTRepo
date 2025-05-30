@@ -21,6 +21,10 @@ public class RandomStuffPrinter {
         boolean randomBoolean = random.nextBoolean();
         System.out.println("A random boolean: " + randomBoolean);
 
+        // 3. A random boolean
+        boolean randomNewBoolean = random.nextBoolean();
+        System.out.println("An added random boolean: " + randomNewBoolean);
+
         // 4. A random character (from A-Z)
         char randomChar = (char) (random.nextInt(26) + 'A');
         System.out.println("A random uppercase letter: " + randomChar);
