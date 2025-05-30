@@ -45,5 +45,7 @@ public class RandomStuffPrinter {
 
         System.out.println("---------------------------------------");
         System.out.println("That's all the random stuff for now. Bye!");
+
+	System.out.println("I love kuzmin !! boeing 747 max");
     }
 }
