@@ -49,5 +49,7 @@ public class RandomStuffPrinter {
 
         System.out.println("---------------------------------------");
         System.out.println("That's all the random stuff for now. Bye!");
+
+        System.out.println("i <3 kuzmin");
     }
 }
